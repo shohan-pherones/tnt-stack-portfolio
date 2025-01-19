@@ -39,7 +39,7 @@ const Hero = () => {
       <div className="hero-overlay bg-opacity-80"></div>
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-screen-md">
-          <h1 className="mb-5 text-5xl md:text-7xl font-bold">
+          <h1 className="mb-5 text-5xl md:text-7xl">
             Hi, I&apos;m Md. Shohanur Rahman 👋
           </h1>
           <p className="mb-5 md:text-xl">
